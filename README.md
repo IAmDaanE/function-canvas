@@ -1,6 +1,6 @@
 # Function Canvas
 
-Visualize any mathematic function onto a canvas. Written in python with the pygame library.
+Visualize any mathematical function onto a canvas. Written in python with the pygame library.
 
 ---
 
