@@ -2,6 +2,10 @@
 
 Visualize any mathematic function onto a canvas. Written in python with the pygame library.
 
+---
+
+<img width="1499" height="837" alt="image" src="https://github.com/user-attachments/assets/c96c22cc-7621-4f33-af5d-ef090436628e" />
+
 ## Getting Started
 
 ### Getting the Source
